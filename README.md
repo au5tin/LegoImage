@@ -1,1 +1,1 @@
-"# Lego Image" 
+# LegoImage
